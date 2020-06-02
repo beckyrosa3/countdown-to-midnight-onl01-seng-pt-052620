@@ -10,7 +10,7 @@ x = 10
 end
 
 def countdown_with_sleep(countdown)
-  time = Time.now
-  sleep 5.seconds until Time.now == 0
+  sleep(5)
+  until == 0
   end
 end
