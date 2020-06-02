@@ -11,6 +11,5 @@ end
 
 def countdown_with_sleep(countdown)
   sleep(5)
-  until == 0
   end
 end
