@@ -9,7 +9,7 @@ x = 10
   end
 end
 
-def countdown_with_sleep(countdown)
-  sleep(5)
+def countdown_with_sleep(s)
+  sleep(1)
   end
 end
